@@ -12,11 +12,6 @@
     },
     "TRIGGER-GHI789": {
       "status": "inactive"
-    },
-    "TRIGGER-JKL012": {
-      "status": "active",
-      "expires_at": "2026-02-20",
-      "used": true
     }
   }
 }
