@@ -1,9 +1,0 @@
-{
-  "version": "1.0",
-  "last_updated": "2024-01-15",
-  "approved_devices": [
-    "TRG_1234567890ABCDEF",
-    "TRG_ABCDEF1234567890",
-    "TRG_0987654321FEDCBA"
-  ]
-}
