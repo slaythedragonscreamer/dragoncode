@@ -2,16 +2,9 @@
   "version": "2.0",
   "last_updated": "2026-02-10",
   "codes": {
-    "TRIGGER-ABC123": {
+    "TRIGGER-TEST123": {
       "status": "active",
-      "expires_at": "2026-02-15"
-    },
-    "TRIGGER-DEF456": {
-      "status": "active",
-      "expires_at": "2026-03-01"
-    },
-    "TRIGGER-GHI789": {
-      "status": "inactive"
+      "expires_at": "2026-02-20"
     }
   }
 }
