@@ -1,10 +1,5 @@
-{
-  "version": "2.0",
-  "last_updated": "2026-02-10",
-  "codes": {
-    "TRIGGER-TEST123": {
-      "status": "active",
-      "expires_at": "2026-02-20"
-    }
-  }
-}
+token codes: [TRIGGER-TEST123],expires_at: [2026-02-20], clock: [21:30]
+token codes: [TRIGGER-TEST445],expires_at: [2026-02-21], clock: [21:30]
+token codes: [TRIGGER-TEST332],expires_at: [2026-02-25], clock: [21:30]
+token codes: [TRIGGER-TEST223],expires_at: [2026-02-27], clock: [21:30]
+token codes: [TRIGGER-TEST333],expires_at: [2026-02-13], clock: [21:30]
