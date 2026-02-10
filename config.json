@@ -1,0 +1,10 @@
+{
+  "system": {
+    "trial_duration_hours": 24,
+    "max_trial_uses": 1,
+    "program_version": "V9.0",
+    "maintenance_mode": false,
+    "maintenance_message": "System under maintenance",
+    "check_interval_minutes": 5
+  }
+}
